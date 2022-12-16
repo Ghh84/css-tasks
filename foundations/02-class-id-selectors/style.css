@@ -1,0 +1,25 @@
+body{background-color: white;}
+
+p{
+    background-color:salmon;
+
+}
+.odd-number-1,.odd-number-5{
+    font-size: 30px;
+
+}
+.odd-number-3{
+    font-size: 50px;    
+}
+
+#even-number-2{
+    color: blue;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#even-number-4{
+    color: rgb(11, 11, 12);
+    background-color: green;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
