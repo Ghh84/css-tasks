@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+
+div{
+    background-color: red;
+    color: white;
+    height: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+}
